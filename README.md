@@ -11,7 +11,7 @@ As part of the Makers Fellowship Scheme, I will be looking for an exciting oppor
 ### Creativity
 As someone who is inventive and has a key eye for detail, software development provides me with a platform to illustrate my creative potential, building practice projects using Ruby, HTML and CSS including:
 
- 1. The Prediction - *A command-line game*
+ 1. [The Prediction](https://github.com/domw30/The-Prediction-Game) - *A command-line game*
  2. WLP - *A portfolio website*
  3. The Running Backpacker - *A fitness and travel blog*
  4. Rootstock - *A music community platform*
