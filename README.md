@@ -20,7 +20,7 @@ As someone who is inventive and has a key eye for detail, software development p
 
 University introduced me to video editing software such as Final Cut Pro. In a team of three, we filmed, edited and presented a short documentary film, [Olympic Dream](https://www.youtube.com/watch?v=8OMzfkjc_qE).
 
-Drawing sketches of homepage layouts is another past time of mine during commutable hours. Using a software development mindset I picture how a page should be presented to a user. Some sketches include an online shop, a mobile sports app and a photographers portfolio page. These are highlighted on THIS POST.
+Drawing [sketches](https://github.com/domw30/CV/blob/master/sketches.pdf) of homepage layouts is another past time of mine during commutable hours. Using a software development mindset I picture how a page should be presented to a user. Some sketches include an online shop, a mobile sports app and a photographers portfolio page.
 
 ### Communication
 Throughout my previous roles, such as Recruitment Coordinator for Canterbury District Health Board and Compliance Audit Consultant for Lloyds Corporate Finance, communication has been vital internally and externally. I created professional correspondence in email form, telephony and mail on a daily basis. In addition, I have led workshops to train new colleagues and given presentations regarding new ideas and efficient work flows.
