@@ -13,7 +13,7 @@ As someone who is inventive and has a key eye for detail, software development p
 
  1. [The Prediction](https://github.com/domw30/The-Prediction-Game) - *A command-line game*
  2. [Student Directory](https://github.com/domw30/student-directory-2) - *A command-line app*
- 3. WLP - *A portfolio website*
+ 3. [WLP](https://github.com/domw30/WLP-Portfolio) - *A portfolio website*
  4. The Running Backpacker - *A fitness and travel blog*
  5. Rootstock - *A music community platform*
  6. Dino's Pizza - *A pizza takeaway website*
