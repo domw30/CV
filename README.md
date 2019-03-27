@@ -8,19 +8,6 @@ As part of the Makers Fellowship Scheme, I will be looking for an exciting oppor
 
 ## Skills
 
-### Fast-Learning
-Ability to take on new challenges and projects learning new material and concepts effectively and efficiently. I have been able to approach and absorb a range of topics relevant to Software Development during my self-led learning such as Ruby language, prior to and during the pre-course with Makers Academy boot-camp. I have been able to work through online resources and books that have enabled me to develop command-line based projects that I have thoroughly enjoyed creating.
-
-### Self-Confidence
-My self-confidence and personal development has benefitted from not only securing a place as a Fellow with Makers Academy, but also three years travelling and working in Europe, Asia, New Zealand and Australia. I believe that subjecting myself to a diverse range of employers and environments has significantly improved my ability to overcome obstacles that come with entering into the unknown, to be able to think practically and adapt to difficult situations.
-
-During my time with Lloyds Corporate Finance, I achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period. Being confident and having a growth mindset allow me to manage and reach goals.
-
-### Communication
-Throughout my previous roles, such as Recruitment Coordinator for Canterbury District Health Board and Compliance Audit Consultant for Lloyds Corporate Finance, communication has been vital internally and externally. I created professional correspondence in email form, telephony and mail on a daily basis. In addition, I have led workshops to train new colleagues and given presentations regarding new ideas and efficient work flows.
-
-[Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is a blog that I have created to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course.
-
 ### Creativity
 As someone who is inventive and has a key eye for detail, software development provides me with a platform to illustrate my creative potential, building practice projects using Ruby, HTML and CSS including:
 
@@ -33,6 +20,19 @@ As someone who is inventive and has a key eye for detail, software development p
 University introduced me to video editing software such as Final Cut Pro. In a team of three, we filmed, edited and presented a short documentary film, [Olympic Dream](https://www.youtube.com/watch?v=8OMzfkjc_qE).
 
 Drawing sketches of homepage layouts is another past time of mine during commutable hours. Using a software development mindset I picture how a page should be presented to a user. Some sketches include an LINKonline shop, a LINKmobile sports app and a LINKphotographers portfolio page.
+
+### Communication
+Throughout my previous roles, such as Recruitment Coordinator for Canterbury District Health Board and Compliance Audit Consultant for Lloyds Corporate Finance, communication has been vital internally and externally. I created professional correspondence in email form, telephony and mail on a daily basis. In addition, I have led workshops to train new colleagues and given presentations regarding new ideas and efficient work flows.
+
+[Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is a blog that I have created to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course.
+
+### Fast-Learning
+Ability to take on new challenges and projects learning new material and concepts effectively and efficiently. I have been able to approach and absorb a range of topics relevant to Software Development during my self-led learning such as Ruby language, prior to and during the pre-course with Makers Academy boot-camp. I have been able to work through online resources and books that have enabled me to develop command-line based projects that I have thoroughly enjoyed creating.
+
+### Self-Confidence
+My self-confidence and personal development has benefitted from not only securing a place as a Fellow with Makers Academy, but also three years travelling and working in Europe, Asia, New Zealand and Australia. I believe that subjecting myself to a diverse range of employers and environments has significantly improved my ability to overcome obstacles that come with entering into the unknown, to be able to think practically and adapt to difficult situations.
+
+During my time with Lloyds Corporate Finance, I achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period. Being confident and having a growth mindset allow me to manage and reach goals.
 
 ### Commitment
 Following many months of research and practice, I was incredibly committed to secure a place on the Makers Academy Fellowship Scheme. I was able to use self-led learning techniques to prepare for the application process and have the commitment to work everyday to ensure there was a possibility of being accepted. With discipline, focus and motivation I have been able to progress with my journey of becoming a software developer.
@@ -52,16 +52,6 @@ Highly selective 16 week intensive coding boot-camp.
 - BA Language and Communication Joint Honours
 - Specialising in Media Practice, Communications and Advertising
 - 2:1 Undergraduate Degree
-
-## Internships
-
-#### Channel Toast Music (July 2016)
-
-TOAST is an online hip- hop and food publication that prides itself on discovering the best upcoming talent across both mediums. The intern role with Toast involved searching for new talent using media channels and writing detailed articles worthy of publication.
-
-#### Nuts Magazine IPC Media (August 2011)
-
-For one month I joined Nuts Magazine in London to assist with their daily operation of copywriting, researching and interviewing for features. The work I completed and content I produced was credited in three of the magazines.
 
 ## Experience
 
@@ -84,3 +74,13 @@ Maintained a professional communication between new and existing clients to maxi
 *Compliance Audit Consultant*
 
 Compliance Audit Consultant for an established blue-chip company. Working within a fast paced environment, I handled customer's insurance cases in line with fixed regulations, procedures and robust auditing. With outstanding telephone and written communication skills, good organisation and the ability to manage workload efficiently, I had the opportunity to take ownership of insurance complaint cases and took responsibility for reaching the correct outcome for the customer and the company.
+
+## Internships
+
+#### Channel Toast Music (July 2016)
+
+TOAST is an online hip- hop and food publication that prides itself on discovering the best upcoming talent across both mediums. The intern role with Toast involved searching for new talent using media channels and writing detailed articles worthy of publication.
+
+#### Nuts Magazine IPC Media (August 2011)
+
+For one month I joined Nuts Magazine in London to assist with their daily operation of copywriting, researching and interviewing for features. The work I completed and content I produced was credited in three of the magazines.
