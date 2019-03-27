@@ -12,10 +12,11 @@ As part of the Makers Fellowship Scheme, I will be looking for an exciting oppor
 As someone who is inventive and has a key eye for detail, software development provides me with a platform to illustrate my creative potential, building practice projects using Ruby, HTML and CSS including:
 
  1. [The Prediction](https://github.com/domw30/The-Prediction-Game) - *A command-line game*
- 2. WLP - *A portfolio website*
- 3. The Running Backpacker - *A fitness and travel blog*
- 4. Rootstock - *A music community platform*
- 5. Dino's Pizza - *A pizza takeaway website*
+ 2. [Student Directory](https://github.com/domw30/student-directory-2) - *A command-line app*
+ 3. WLP - *A portfolio website*
+ 4. The Running Backpacker - *A fitness and travel blog*
+ 5. Rootstock - *A music community platform*
+ 6. Dino's Pizza - *A pizza takeaway website*
 
 University introduced me to video editing software such as Final Cut Pro. In a team of three, we filmed, edited and presented a short documentary film, [Olympic Dream](https://www.youtube.com/watch?v=8OMzfkjc_qE).
 
