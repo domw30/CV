@@ -32,7 +32,7 @@ Ability to take on new challenges and projects learning new material and concept
 ### Self-Confidence
 My self-confidence and personal development has benefitted from not only securing a place as a Fellow with Makers Academy, but also three years travelling and working in Europe, Asia, New Zealand and Australia. I believe that subjecting myself to a diverse range of employers and environments has significantly improved my ability to overcome obstacles that come with entering into the unknown, to be able to think practically and adapt to difficult situations.
 
-During my time with Lloyds Corporate Finance, I achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period. Being confident and having a growth mindset allow me to manage and reach goals.
+During my time with Lloyds Finance, I achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period which reflects my self-confidence and keen eye for detail, further transferable skills.
 
 ### Commitment
 Following many months of research and practice, I was incredibly committed to secure a place on the Makers Academy Fellowship Scheme. I was able to use self-led learning techniques to prepare for the application process and have the commitment to work everyday to ensure there was a possibility of being accepted. With discipline, focus and motivation I have been able to progress with my journey of becoming a software developer.
