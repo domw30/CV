@@ -1,4 +1,6 @@
 <h1 align="center">Dominic White</h1>
+<h4 align="center">Junior Software Engineer</h4>
+<br>
 <p align="center">
 <a href="https://www.instagram.com/domedwhite/">
 <img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="instagram" hspace="50" height="42" width="42"></a>
@@ -32,7 +34,7 @@ Below is a selection of the projects I've worked on. Please look to my [Github](
 |--|--|--|--|--|
 | [StarGazer](https://github.com/jo-quin/stargazer) | The final project of the Makers Academy curriculum, in a team of four, we aimed to create an iOS Augmented Reality App, built from the ground up using technologies that were new to each of us. Using the skills and experience gained throughout the bootcamp we put our heads together to create an app that generates 3D celestial bodies through a mobile devices camera based on user location and date. | 2 weeks | Swift, XCode (ARKit, SceneKit, UIKit) | Codacy, XCode built in CI |
 | [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) | As a team of five we set off to create our own version of the social media platform Facebook. The primary goal of the Acebook Project was to be able to achieve and evidence that we have used high-quality processes to build a project in a team. The aim of the sites design was to strip back to a retro feel. | 2 weeks | Ruby on Rails, HTML/CSS, PostgreSQL, Heroku | RSpec, Capybara, Travis, Codacy |
-| [Rock, Paper, Scissors](https://github.com/domw30/rps-challenge) | A weekend challenge as part of the Makers Academy curriculum, I was asked to create a Rock, Paper, Scissors web application. The aim was to have a player vs computer game which involves the player choosing a move (rock, paper or scissors) to trump the computers randomly generated move.  | 1 weekend | Ruby, HTML/CSS, Sinatra | RSpec, Cabybara, Rubocop |
+| [Rock, Paper, Scissors](https://github.com/domw30/rps-challenge) | A weekend challenge as part of the Makers Academy curriculum, I was asked to create a Rock, Paper, Scissors web application. The aim was to have a player vs computer game which involves the player choosing a move (rock, paper or scissors) to trump the computers randomly generated move.  | 2 days | Ruby, HTML/CSS, Sinatra | RSpec, Cabybara, Rubocop |
 | [Bank](https://github.com/domw30/bank_tech_test) | A practice tech test project with the aim of creating a model of a bank, customer transactions and accounts. Week 10 of the Makers Academy Coding Bootcamp, this project allowed me to independently work on my high level skills, agile processes and methodical approach to programming. | 3 days | Ruby | RSpec, Rubocop |
 
 ## Skills
@@ -84,22 +86,22 @@ Highly selective 16 week intensive coding boot-camp.
 
 ## Experience
 
-**Canterbury District Health Board** (April 2018 to June 2018)    
+**Canterbury District Health Board (April 2018 to June 2018)**   
 *Recruitment Coordinator*
 
 A fast-paced, collaborative environment, working as a specialist for the recruitment of nurses and surgeons at Christchurch Hospital. The role involved developing a good understanding of the hospital recruitment process, their work culture and the environment. In such a specialised field it was of high importance to work as a team to identify suitable candidates by advertising vacancies, face to face interviews and communication with hiring managers.
 
-**Computershare Serviceworks** (February 2016 to May 2016)   
+**Computershare Serviceworks (February 2016 to May 2016)**   
 *Data Entry Administrator*
 
 I was responsible for communications with existing customers regarding their energy invoices. It was of high importance to solve problems with data inconsistencies and amend the errors, with proofreading and data entry, to ensure customers received accurate invoices by approving energy reads sent to the database.
 
-**Install Testing Ltd** (February 2015 to June 2015)   
+**Install Testing Ltd (February 2015 to June 2015)**   
 *Office Administrator*
 
 Maintained a professional communication between new and existing clients to maximize business. Used sales experience and social nature advantage to generate leads. Prepared effective action plans, schedules and participated in marketing strategies, design and execution. General office administrator duties were also carried out on a day to day basis.
 
-**Lloyds Finance** (August 2012 to February 2015)   
+**Lloyds Finance (August 2012 to February 2015)**   
 *Compliance Audit Consultant*
 
 Compliance Audit Consultant for an established blue-chip company. Working within a fast paced environment, I handled customer's insurance cases in line with fixed regulations, procedures and robust auditing. With outstanding telephone and written communication skills, good organisation and the ability to manage workload efficiently, I had the opportunity to take ownership of insurance complaint cases and took responsibility for reaching the correct outcome for the customer and the company.
