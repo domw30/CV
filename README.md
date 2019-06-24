@@ -1,4 +1,4 @@
-# Dominic White
+<h1 align="center">Dominic White</h1>
 
 A fast-learning Language and Communication graduate with a passion for technology and its inner workings, who successfully secured a placement on the Makers Academy Fellowship scheme, motivated to develop and progress in a dynamic career as a Software Developer, with a real drive to learn led by curiosity, creativity and eagerness.
 
