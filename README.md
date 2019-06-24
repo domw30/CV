@@ -67,8 +67,9 @@ Ability to take on new challenges and projects learning new material and concept
 During my time with Lloyds Finance, I achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period which reflects my self-confidence and keen eye for detail, further transferable skills.
 
 #### Innovative Collaborator
-[Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is an article that I have produced to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course.
-[Feedback](https://docs.google.com/document/d/15ZYdAXLOubtl1qrHmyZvOSDHGH104VjCCAq9F1REMV8/edit?usp=sharing)
+The world of software development is circled by a supprtive community where my ability to collaborate can thrive. [Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is an article that I have produced to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course. 
+
+Working on group projects such as MakersBnb, Acebook and StarGazer I have gained experience following an agile product development process and developer workflows. In addition, [Pair Partner Feedback](https://docs.google.com/document/d/15ZYdAXLOubtl1qrHmyZvOSDHGH104VjCCAq9F1REMV8/edit?usp=sharing) that I have tracked reflects my ability to collaborate on projects.
 
 #### Self-Confidence
 My self-confidence and personal development has benefitted from not only securing a place as a Fellow with Makers Academy, but also three years travelling and working in Europe, Asia, New Zealand and Australia. I believe that subjecting myself to a diverse range of employers and environments has significantly improved my ability to overcome obstacles that come with entering into the unknown, to be able to think practically and adapt to difficult situations.
@@ -102,7 +103,7 @@ A fast-paced, collaborative environment, working as a specialist for the recruit
 **Computershare Serviceworks (February 2016 to May 2016)**   
 *Data Entry Administrator*
 
-I was responsible for communications with existing customers regarding their energy invoices. It was of high importance to solve problems with data inconsistencies and amend the errors, with proofreading and data entry, to ensure customers received accurate invoices by approving energy reads sent to the database.
+I was responsible for communications with existing customers regarding their energy invoices. It was of high importance to solve problems with data inconsistencies and amend the errors, using strategies such as proofreading and clean data entry, to ensure customers received accurate invoices by approving energy reads sent to the database.
 
 **Install Testing Ltd (February 2015 to June 2015)**   
 *Office Administrator*
@@ -118,7 +119,7 @@ Compliance Audit Consultant for an established blue-chip company. Working within
 
 #### Channel Toast Music (July 2016)
 
-TOAST is an online hip- hop and food publication that prides itself on discovering the best upcoming talent across both mediums. The intern role with Toast involved searching for new talent using media channels and writing detailed articles worthy of publication.
+TOAST is an online hip-hop and food publication that prides itself on discovering the best upcoming talent across both mediums. The intern role with Toast involved searching for new talent using media channels and writing detailed articles worthy of publication.
 
 #### Nuts Magazine IPC Media (August 2011)
 
