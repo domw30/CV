@@ -14,8 +14,7 @@
 [Skills ](#skills) |
 [Education ](#education) |
 [Experience ](#experience) |
-[Internships ](#internships) |
-[Interests ](#interests)
+[Internships ](#internships)
 
 </ul>
 
