@@ -26,6 +26,15 @@ With experience undertaking highly demanding administration roles, I thrive in a
 
 As a graduate of Makers Academy, I am looking for an exciting opportunity in the London tech industry. With interests in music, fitness, food and travel I will aim to join a software team working on innovative projects with beautiful design and user experience.
 
+## Projects
+Below is a selection of the projects I've worked on. Please look to my [Github](https://github.com/domw30) for a complete list.
+
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|--|
+| [StarGazer](https://github.com/jo-quin/stargazer) | The final project of the Makers Academy curriculum, in a team of four, we aimed to create an iOS Augmented Reality App, built from the ground up using technologies that were new to each of us. Using the skills and experience gained throughout the bootcamp we put our heads together to create an app that generates 3D celestial bodies through a mobile devices camera based on user location and date. | 2 weeks | Swift, XCode (ARKit, SceneKit, UIKit) | Codacy, XCode built in CI |
+| [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) | As a team of five we set off to create our own version of the social media platform Facebook. The primary goal of the Acebook Project was to be able to achieve and evidence that we have used high-quality processes to build a project in a team. The aim of the sites design was to strip back to a retro feel. | 2 weeks | Ruby on Rails, HTML/CSS, PostgreSQL, Heroku | RSpec, Capybara, Travis, Codacy |
+| [Rock, Paper, Scissors](https://github.com/domw30/rps-challenge) | A weekend challenge as part of the Makers Academy curriculum, I was asked to create a Rock, Paper, Scissors web application. The aim was to have a player vs computer game which involves the player choosing a move (rock, paper or scissors) to trump the computers randomly generated move.  | 1 weekend | Ruby, HTML/CSS, Sinatra | RSpec, Cabybara, Rubocop |
+
 ## Skills
 
 ### Creativity
