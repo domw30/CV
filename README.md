@@ -52,7 +52,7 @@ As someone who is inventive and has a keen eye for detail, software development 
 
 ![Screenshot (47)](https://user-images.githubusercontent.com/39112648/60045108-e82fac80-96bb-11e9-876b-22b00e7f603f.png)
 
-Drawing [sketches](https://github.com/domw30/CV/blob/master/sketches.pdf) of homepage layouts is another past time of mine. Using a software development mindset I picture how a page should be presented to a user. Some sketches include an online shop, a mobile sports app and a photographers portfolio page.
+Drawing [sketches](https://github.com/domw30/CV/blob/master/sketches.pdf) of homepage layouts is another past time of mine. Using a software development mindset I picture how a page should be presented to a user. Some sketches include an online shop, a mobile sports app and a chefs portfolio page.
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/39112648/60043276-9b49d700-96b7-11e9-80ba-2360910a160c.png)
 
