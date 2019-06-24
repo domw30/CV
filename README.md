@@ -40,7 +40,7 @@ Below is a selection of the projects I've worked on. Please look to my [Github](
 ## Skills
 
 #### Creativity
-As someone who is inventive and has a key eye for detail, software development provides me with a platform to illustrate my creative potential, building practice projects using Ruby, HTML and CSS including:
+As someone who is inventive and has a keen eye for detail, software development provides me with a platform to illustrate my creative potential, building practice projects using Ruby, and example websites in HTML and CSS including:
 
  1. [The Prediction](https://github.com/domw30/The-Prediction-Game) - *A command-line game*
  2. [Student Directory](https://github.com/domw30/student-directory-2) - *A command-line app*
@@ -61,10 +61,13 @@ University introduced me to video editing software such as Final Cut Pro. In a t
 #### Communication
 Throughout my previous roles, such as Recruitment Coordinator for Canterbury District Health Board and Compliance Audit Consultant for Lloyds Corporate Finance, communication has been vital internally and externally. I created professional correspondence in email form, telephony and mail on a daily basis. In addition, I have led workshops to train new colleagues and given presentations regarding new ideas and efficient work flows.
 
-[Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is a blog that I have created to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course.
+[Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is an article that I have produced to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course.
 
-#### Fast-Learning
+#### Self-Starter
 Ability to take on new challenges and projects learning new material and concepts effectively and efficiently. I have been able to approach and absorb a range of topics relevant to Software Development during my self-led learning such as Ruby language, prior to and during the pre-course with Makers Academy boot-camp. I have been able to work through online resources and books that have enabled me to develop command-line based projects that I have thoroughly enjoyed creating.
+
+#### Innovative Collaborator
+[Feedback](https://docs.google.com/document/d/15ZYdAXLOubtl1qrHmyZvOSDHGH104VjCCAq9F1REMV8/edit?usp=sharing)
 
 #### Self-Confidence
 My self-confidence and personal development has benefitted from not only securing a place as a Fellow with Makers Academy, but also three years travelling and working in Europe, Asia, New Zealand and Australia. I believe that subjecting myself to a diverse range of employers and environments has significantly improved my ability to overcome obstacles that come with entering into the unknown, to be able to think practically and adapt to difficult situations.
