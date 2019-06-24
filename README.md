@@ -20,11 +20,11 @@
 </ul>
 
 ## Background
-A fast-learning Language and Communication graduate with a passion for technology and its inner workings, who successfully secured a placement on the Makers Academy Fellowship scheme, motivated to develop and progress in a dynamic career as a Software Developer, with a real drive to learn led by curiosity, creativity and eagerness.</div>
+A fast-learning Language and Communication graduate with a passion for technology and its inner workings, who successfully secured a placement on the Makers Academy Fellowship scheme, motivated to develop and progress in a dynamic career as a Software Developer, with a real drive to learn led by curiosity, creativity and eagerness.
 
 With experience undertaking highly demanding administration roles, I thrive in a creative and collaborative environment with strengths in problem solving, relationship building, communication and delivery of results. Now I take on a new challenge, to transfer my skills and experiences to reach my goal of becoming a competent and confident junior developer.
 
-As part of the Makers Fellowship Scheme, I will be looking for an exciting opportunity in the London tech industry. With interests in music, fitness, food and travel I will aim to join a software team working on innovative projects with beautiful design and user experience.
+As a graduate of Makers Academy, I am looking for an exciting opportunity in the London tech industry. With interests in music, fitness, food and travel I will aim to join a software team working on innovative projects with beautiful design and user experience.
 
 ## Skills
 
