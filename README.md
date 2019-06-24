@@ -47,10 +47,14 @@ As someone who is inventive and has a key eye for detail, software development p
  3. [WLP](https://github.com/domw30/WLP-Portfolio) - *A portfolio website*
  4. [The Running Backpacker](https://github.com/domw30/Running-Backpacker) - *A fitness and travel blog*
  5. [Dino's Pizza](https://github.com/domw30/Pizza) - *A pizza takeaway website*
+ 
+![Screenshot (47)](https://user-images.githubusercontent.com/39112648/60045108-e82fac80-96bb-11e9-876b-22b00e7f603f.png)
 
 University introduced me to video editing software such as Final Cut Pro. In a team of three, we filmed, edited and presented a short documentary film, [Olympic Dream](https://www.youtube.com/watch?v=8OMzfkjc_qE).
 
 Drawing [sketches](https://github.com/domw30/CV/blob/master/sketches.pdf) of homepage layouts is another past time of mine. Using a software development mindset I picture how a page should be presented to a user. Some sketches include an online shop, a mobile sports app and a photographers portfolio page.
+
+![Screenshot (39)](https://user-images.githubusercontent.com/39112648/60043276-9b49d700-96b7-11e9-80ba-2360910a160c.png)
 
 #### Communication
 Throughout my previous roles, such as Recruitment Coordinator for Canterbury District Health Board and Compliance Audit Consultant for Lloyds Corporate Finance, communication has been vital internally and externally. I created professional correspondence in email form, telephony and mail on a daily basis. In addition, I have led workshops to train new colleagues and given presentations regarding new ideas and efficient work flows.
