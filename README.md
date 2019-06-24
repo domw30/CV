@@ -48,6 +48,8 @@ As someone who is inventive and has a key eye for detail, software development p
  4. [The Running Backpacker](https://github.com/domw30/Running-Backpacker) - *A fitness and travel blog*
  5. [Dino's Pizza](https://github.com/domw30/Pizza) - *A pizza takeaway website*
  
+ For further documentation related to the below images, please visit [Projects and Designs](https://docs.google.com/document/d/1RyMRrlY9iLtALyAxQfegYVv1k4YUox6ByBhk8H26owo/edit?usp=sharing).
+
 ![Screenshot (47)](https://user-images.githubusercontent.com/39112648/60045108-e82fac80-96bb-11e9-876b-22b00e7f603f.png)
 
 University introduced me to video editing software such as Final Cut Pro. In a team of three, we filmed, edited and presented a short documentary film, [Olympic Dream](https://www.youtube.com/watch?v=8OMzfkjc_qE).
