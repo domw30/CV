@@ -1,6 +1,26 @@
 <h1 align="center">Dominic White</h1>
+<p align="center">
+<a href="https://www.instagram.com/domedwhite/">
+<img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="instagram" hspace="50" height="42" width="42"></a>
+<a href="https://medium.com/@domw30">
+<img src="https://www.svgrepo.com/show/5274/medium-size.svg" alt="medium" hspace="50" height="42" width="42"></a>
+<a href=https://www.linkedin.com/in/dominic-white-6aba6b173/">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
-A fast-learning Language and Communication graduate with a passion for technology and its inner workings, who successfully secured a placement on the Makers Academy Fellowship scheme, motivated to develop and progress in a dynamic career as a Software Developer, with a real drive to learn led by curiosity, creativity and eagerness.
+<ul align="center">
+ 
+[Background ](#background) |
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Education ](#education) |
+[Experience ](#experience) |
+[Internships ](#internships) |
+[Interests ](#interests)
+
+</ul>
+
+## Background
+A fast-learning Language and Communication graduate with a passion for technology and its inner workings, who successfully secured a placement on the Makers Academy Fellowship scheme, motivated to develop and progress in a dynamic career as a Software Developer, with a real drive to learn led by curiosity, creativity and eagerness.</div>
 
 With experience undertaking highly demanding administration roles, I thrive in a creative and collaborative environment with strengths in problem solving, relationship building, communication and delivery of results. Now I take on a new challenge, to transfer my skills and experiences to reach my goal of becoming a competent and confident junior developer.
 
