@@ -61,18 +61,17 @@ University introduced me to video editing software such as Final Cut Pro. In a t
 #### Communication
 Throughout my previous roles, such as Recruitment Coordinator for Canterbury District Health Board and Compliance Audit Consultant for Lloyds Corporate Finance, communication has been vital internally and externally. I created professional correspondence in email form, telephony and mail on a daily basis. In addition, I have led workshops to train new colleagues and given presentations regarding new ideas and efficient work flows.
 
-[Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is an article that I have produced to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course.
-
 #### Self-Starter
-Ability to take on new challenges and projects learning new material and concepts effectively and efficiently. I have been able to approach and absorb a range of topics relevant to Software Development during my self-led learning such as Ruby language, prior to and during the pre-course with Makers Academy boot-camp. I have been able to work through online resources and books that have enabled me to develop command-line based projects that I have thoroughly enjoyed creating.
+Ability to take on new challenges and projects learning new material and concepts effectively and efficiently, for example learning new software and technologies for the StarGazer Project such as Xcode. I have been able to approach and absorb a range of topics relevant to Software Development from self-directed learning such as Ruby, TDD, agile processes, methodical approaches, complex problem solving, DRY, SRP, and many more during the 16 week development course with Makers Academy boot-camp. 
+
+During my time with Lloyds Finance, I achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period which reflects my self-confidence and keen eye for detail, further transferable skills.
 
 #### Innovative Collaborator
+[Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is an article that I have produced to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course.
 [Feedback](https://docs.google.com/document/d/15ZYdAXLOubtl1qrHmyZvOSDHGH104VjCCAq9F1REMV8/edit?usp=sharing)
 
 #### Self-Confidence
 My self-confidence and personal development has benefitted from not only securing a place as a Fellow with Makers Academy, but also three years travelling and working in Europe, Asia, New Zealand and Australia. I believe that subjecting myself to a diverse range of employers and environments has significantly improved my ability to overcome obstacles that come with entering into the unknown, to be able to think practically and adapt to difficult situations.
-
-During my time with Lloyds Finance, I achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period which reflects my self-confidence and keen eye for detail, further transferable skills.
 
 #### Commitment
 Following many months of research and practice, I was incredibly committed to secure a place on the Makers Academy Fellowship Scheme. I was able to use self-led learning techniques to prepare for the application process and have the commitment to work everyday to ensure there was a possibility of being accepted. With discipline, focus and motivation I have been able to progress with my journey of becoming a software developer.
