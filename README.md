@@ -1,5 +1,5 @@
 <h1 align="center">Dominic White</h1>
-<h4 align="center">Junior Software Engineer</h4>
+<h4 align="center">Software Engineer</h4>
 <br>
 <p align="center">
 <a href="https://www.instagram.com/domedwhite/">
@@ -59,8 +59,14 @@ Drawing [sketches](https://github.com/domw30/CV/blob/master/sketches.pdf) of hom
 
 University introduced me to video editing software such as Final Cut Pro. In a team of three, we filmed, edited and presented a short documentary film, [Olympic Dream](https://www.youtube.com/watch?v=8OMzfkjc_qE).
 
-#### Communication
-Throughout my previous roles, such as Recruitment Coordinator for Canterbury District Health Board and Compliance Audit Consultant for Lloyds Corporate Finance, communication has been vital internally and externally. I created professional correspondence in email form, telephony, and mail on a daily basis. In addition, I have led workshops to train new colleagues and given presentations regarding new innovative ideas and efficient workflows.
+#### Innovative Collaborator
+Thinking outside of the box is a skill I can bring to any situation where a problem arises and a solution is needed. Having an innovative mindset and out of the box thinking results in improved performance which I can highlight from my experience in my role at Christchurch Hospital. I had the ability to think on my feet and persuade a candidate for a surgeons position to join the hospital team by taking them on a spontaneous tour of the city to gain their interest. 
+
+The world of software development is circled by a supportive community where my ability to collaborate can thrive. [Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is an article that I have produced to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course. 
+
+Working on group projects such as [MakersBnb](https://github.com/domw30/MakersBnB), [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) and [StarGazer](https://github.com/jo-quin/stargazer) I have gained experience and grown collaboratively following an agile product development process and developer workflows. Running daily standups and retros allowed me to identify areas that needed improving for example during the [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) project I noticed the team was not aligned with priority of tasks, to solve this solution I recommended we start using a card wall and pair programming to keep on track.
+
+In addition, [Pair Partner Feedback](https://docs.google.com/document/d/15ZYdAXLOubtl1qrHmyZvOSDHGH104VjCCAq9F1REMV8/edit?usp=sharing) that I have tracked reflects my ability to innovate and collaborate on projects.
 
 #### Self-Starter
 Each morning of the Makers course, I would write my personal learning objectives for the day, working towards higher-level learning goals. At the end of each day, I would write a daily review to reflect on the objectives I set out to achieve. This approach added structure and motivation which was important in a fast-paced environment.
@@ -69,12 +75,8 @@ Ability to take on new challenges and projects learning new material and concept
 
 During my time with Lloyds Finance, I achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period which reflects my self-starter and go-getter attitude and a keen eye for detail, transferable skills that I bring to software development.
 
-#### Innovative Collaborator
-The world of software development is circled by a supportive community where my ability to collaborate can thrive. [Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is an article that I have produced to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course. 
-
-Working on group projects such as [MakersBnb](https://github.com/domw30/MakersBnB), [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) and [StarGazer](https://github.com/jo-quin/stargazer) I have gained experience and grown collaboratively following an agile product development process and developer workflows. Running daily standups and retros allowed me to identify areas that needed improving for example during the [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) project I noticed the team was not aligned with priority of tasks, to solve this solution I recommended we start using a card wall and pair programming to keep on track.
-
-In addition, [Pair Partner Feedback](https://docs.google.com/document/d/15ZYdAXLOubtl1qrHmyZvOSDHGH104VjCCAq9F1REMV8/edit?usp=sharing) that I have tracked reflects my ability to innovate and collaborate on projects.
+#### Communication
+Throughout my previous roles, such as Recruitment Coordinator for Canterbury District Health Board and Compliance Audit Consultant for Lloyds Corporate Finance, communication has been vital internally and externally. I created professional correspondence in email form, telephony, and mail on a daily basis. In addition, I have led workshops to train new colleagues and given presentations regarding new innovative ideas and efficient workflows.
 
 #### Self-Confidence
 My self-confidence and personal development have benefitted from not only securing a place as a Fellow with Makers Academy but also three years traveling and working in Europe, Asia, New Zealand, and Australia. I believe that subjecting myself to a diverse range of employers and environments has significantly improved my ability to overcome obstacles that come with entering into the unknown, to be able to think practically and adapt to difficult situations.
@@ -82,12 +84,14 @@ My self-confidence and personal development have benefitted from not only securi
 #### Commitment
 Following many months of research and practice, I was incredibly committed to secure a place on the Makers Academy Fellowship Scheme. I was able to make use of my desire to learn, with curiosity pushing me to use self-led learning techniques to prepare for the application process and have the commitment to work every day to ensure there was a possibility of being accepted. With discipline, focus, and motivation I have been able to progress with my journey of becoming a software developer.
 
+As a compassionate person, I am continuously striving to support others and committed to making positive changes. Previous volunteering placements such as community support based in indigenous towns in outback Australia gave me the opportunity to support local children have better lifestyles by taking on the challenge of organizing weekend events and activities. I was incredibly passionate about this specific volunteering placement as I witnessed a positive change in the town.
+
 ## Education
 
 #### Makers Academy (March 2019 to June 2019)
 Highly selective 16 week intensive coding boot-camp.
 
-- Pair-programming
+- Pair-Programming
 - Test Driven Development
 - Object Oriented Design
 - Agile Methodologies
