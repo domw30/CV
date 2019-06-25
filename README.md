@@ -59,23 +59,25 @@ Drawing [sketches](https://github.com/domw30/CV/blob/master/sketches.pdf) of hom
 University introduced me to video editing software such as Final Cut Pro. In a team of three, we filmed, edited and presented a short documentary film, [Olympic Dream](https://www.youtube.com/watch?v=8OMzfkjc_qE).
 
 #### Communication
-Throughout my previous roles, such as Recruitment Coordinator for Canterbury District Health Board and Compliance Audit Consultant for Lloyds Corporate Finance, communication has been vital internally and externally. I created professional correspondence in email form, telephony and mail on a daily basis. In addition, I have led workshops to train new colleagues and given presentations regarding new ideas and efficient work flows.
+Throughout my previous roles, such as Recruitment Coordinator for Canterbury District Health Board and Compliance Audit Consultant for Lloyds Corporate Finance, communication has been vital internally and externally. I created professional correspondence in email form, telephony and mail on a daily basis. In addition, I have led workshops to train new colleagues and given presentations regarding new innovative ideas and efficient work flows.
 
 #### Self-Starter
-Ability to take on new challenges and projects learning new material and concepts effectively and efficiently, for example learning new software and technologies for the StarGazer Project such as Xcode. I have been able to approach and absorb a range of topics relevant to Software Development from self-directed learning such as Ruby, TDD, agile processes, methodical approaches, complex problem solving, DRY, SRP, and many more during the 16 week development course with Makers Academy boot-camp. 
+Ability to take on new challenges and projects learning new material and concepts effectively and efficiently, for example learning new software and technologies for the StarGazer Project such as Xcode. I have been able to approach and absorb a range of topics relevant to Software Development from self-directed learning such as Ruby, TDD, agile processes, methodical approaches, complex problem solving and many more during the 16 week development course with Makers Academy boot-camp. 
 
-During my time with Lloyds Finance, I achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period which reflects my self-confidence and keen eye for detail, further transferable skills.
+During my time with Lloyds Finance, I achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period which reflects my self-starter and go getter attitude and keen eye for detail, transferable skills that I bring to software development.
 
 #### Innovative Collaborator
 The world of software development is circled by a supprtive community where my ability to collaborate can thrive. [Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is an article that I have produced to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course. 
 
-Working on group projects such as MakersBnb, Acebook and StarGazer I have gained experience following an agile product development process and developer workflows. In addition, [Pair Partner Feedback](https://docs.google.com/document/d/15ZYdAXLOubtl1qrHmyZvOSDHGH104VjCCAq9F1REMV8/edit?usp=sharing) that I have tracked reflects my ability to collaborate on projects.
+Working on group projects such as [MakersBnb](), [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) and [StarGazer](https://github.com/jo-quin/stargazer) I have gained experience and grown collaboratively following an agile product development process and developer workflows. Running daily standups and retros allowed me to identify areas that needed improving for example during the StarGazer project I noticed the team was not aligned with priority of tasks, to solve this solution I recommended we start using a card wall and pair programming to keep on track.
+
+In addition, [Pair Partner Feedback](https://docs.google.com/document/d/15ZYdAXLOubtl1qrHmyZvOSDHGH104VjCCAq9F1REMV8/edit?usp=sharing) that I have tracked reflects my ability to innovate and collaborate on projects.
 
 #### Self-Confidence
 My self-confidence and personal development has benefitted from not only securing a place as a Fellow with Makers Academy, but also three years travelling and working in Europe, Asia, New Zealand and Australia. I believe that subjecting myself to a diverse range of employers and environments has significantly improved my ability to overcome obstacles that come with entering into the unknown, to be able to think practically and adapt to difficult situations.
 
 #### Commitment
-Following many months of research and practice, I was incredibly committed to secure a place on the Makers Academy Fellowship Scheme. I was able to use self-led learning techniques to prepare for the application process and have the commitment to work everyday to ensure there was a possibility of being accepted. With discipline, focus and motivation I have been able to progress with my journey of becoming a software developer.
+Following many months of research and practice, I was incredibly committed to secure a place on the Makers Academy Fellowship Scheme. I was able to make use of my desire to learn, with curiosity pushing me to use self-led learning techniques to prepare for the application process and have the commitment to work everyday to ensure there was a possibility of being accepted. With discipline, focus and motivation I have been able to progress with my journey of becoming a software developer.
 
 ## Education
 
@@ -85,7 +87,9 @@ Highly selective 16 week intensive coding boot-camp.
 - Pair-programming
 - Test Driven Development
 - Object Oriented Design
-- Agile
+- Agile Methodologies
+- Developer Workflows
+- Problem Solving
 
 #### Swansea University (September 2009 to August 2012)
 
