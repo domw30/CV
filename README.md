@@ -16,7 +16,8 @@
 [Skills ](#skills) |
 [Education ](#education) |
 [Experience ](#experience) |
-[Internships ](#internships)
+[Internships ](#internships) |
+[Interests ](#interests)
 
 </ul>
 
@@ -62,6 +63,8 @@ University introduced me to video editing software such as Final Cut Pro. In a t
 Throughout my previous roles, such as Recruitment Coordinator for Canterbury District Health Board and Compliance Audit Consultant for Lloyds Corporate Finance, communication has been vital internally and externally. I created professional correspondence in email form, telephony and mail on a daily basis. In addition, I have led workshops to train new colleagues and given presentations regarding new innovative ideas and efficient work flows.
 
 #### Self-Starter
+Each morning of the Makers course, I would write my personal learning objectives for the day, working towards higher level learning goals. At the end of each day I would write a daily review to reflect on the objectives I set out to achieve. This approach added structure and motivation which was important in a fast paced environment.
+
 Ability to take on new challenges and projects learning new material and concepts effectively and efficiently, for example learning new software and technologies for the StarGazer Project such as Xcode. I have been able to approach and absorb a range of topics relevant to Software Development from self-directed learning such as Ruby, TDD, agile processes, methodical approaches, complex problem solving and many more during the 16 week development course with Makers Academy boot-camp. 
 
 During my time with Lloyds Finance, I achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period which reflects my self-starter and go getter attitude and keen eye for detail, transferable skills that I bring to software development.
@@ -69,7 +72,7 @@ During my time with Lloyds Finance, I achieved the highest ranking performance s
 #### Innovative Collaborator
 The world of software development is circled by a supprtive community where my ability to collaborate can thrive. [Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d) is an article that I have produced to communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course. 
 
-Working on group projects such as [MakersBnb](), [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) and [StarGazer](https://github.com/jo-quin/stargazer) I have gained experience and grown collaboratively following an agile product development process and developer workflows. Running daily standups and retros allowed me to identify areas that needed improving for example during the StarGazer project I noticed the team was not aligned with priority of tasks, to solve this solution I recommended we start using a card wall and pair programming to keep on track.
+Working on group projects such as [MakersBnb](https://github.com/domw30/MakersBnB), [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) and [StarGazer](https://github.com/jo-quin/stargazer) I have gained experience and grown collaboratively following an agile product development process and developer workflows. Running daily standups and retros allowed me to identify areas that needed improving for example during the [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) project I noticed the team was not aligned with priority of tasks, to solve this solution I recommended we start using a card wall and pair programming to keep on track.
 
 In addition, [Pair Partner Feedback](https://docs.google.com/document/d/15ZYdAXLOubtl1qrHmyZvOSDHGH104VjCCAq9F1REMV8/edit?usp=sharing) that I have tracked reflects my ability to innovate and collaborate on projects.
 
@@ -128,3 +131,10 @@ TOAST is an online hip-hop and food publication that prides itself on discoverin
 #### Nuts Magazine IPC Media (August 2011)
 
 For one month I joined Nuts Magazine in London to assist with their daily operation of copywriting, researching and interviewing for features. The work I completed and content I produced was credited in three of the magazines.
+
+## Interests
+
+* Long distance running - Some of my highest achievments include 1st place in an Australian [Marathon](https://docs.google.com/document/d/1clAL_r7afgfX5wSu_0wa9DNp4N2GTH08wviXopCkWck/edit?usp=sharing).
+* Design and style - I enjoy visually representing ideas in my spare time.
+* Music - I regularly attend music events mainly drawn to soul, funk and jazz.
+* Volunteering - In previous years I have always made an effort to support communities when I can, for example taking part with HelpX.
