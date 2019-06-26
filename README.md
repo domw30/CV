@@ -71,7 +71,7 @@ Working on group projects such as [MakersBnb](https://github.com/domw30/MakersBn
 #### Self-Starter
 An everlasting hunger for new challenges and projects to continue learning new material and concepts effectively and efficiently.
 
-With eagerness to familiarize myself with augmented reality for the StarGazer project, using Xcode for the first time I learned how to place an image on a devices camera, learning about plane detection and AR world tracking configuration through practice and having some fun with the software, as shown in this [Pizza](https://drive.google.com/open?id=1qkJt-Re-UumYu8JtD1rHeK2k7178RGde) example.
+With eagerness to familiarize myself with augmented reality for the [StarGazer](https://github.com/jo-quin/stargazer) project, using Xcode for the first time I learned how to place an image on a devices camera, learning about plane detection and AR world tracking configuration through practice and having some fun with the software, as shown in this [Pizza](https://drive.google.com/open?id=1qkJt-Re-UumYu8JtD1rHeK2k7178RGde) example.
 
 Each morning personal learning objectives for the day are recorded, working towards higher-level learning goals. At the end of each day, a daily review to reflect on the objectives I set out to achieve is completed. This approach adds structure and motivation in a fast-paced environment and enables me to manage my own well being.
 
