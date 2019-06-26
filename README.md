@@ -69,9 +69,11 @@ The world of software development is circled by a supportive community where my 
 Working on group projects such as [MakersBnb](https://github.com/domw30/MakersBnB), [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) and [StarGazer](https://github.com/jo-quin/stargazer) illustrate team working capabilities following an agile product development process and developer workflows. Daily standups and retros identified areas that needed improving for example during the [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) project, the team was not aligned with the priority of tasks, to solve this solution I recommended we start using a card wall and pair programming to keep on track.
 
 #### Self-Starter
-Each morning of the Makers course, I would write my personal learning objectives for the day, working towards higher-level learning goals. At the end of each day, I would write a daily review to reflect on the objectives I set out to achieve. This approach added structure and motivation which was important in a fast-paced environment.
+An everlasting hunger for new challenges and projects to continue learning new material and concepts effectively and efficiently.
 
-Ability to take on new challenges and projects learning new material and concepts effectively and efficiently, for example learning new software and technologies for the StarGazer Project such as Xcode. I have been able to approach and absorb a range of topics relevant to Software Development from self-directed learning such as Ruby, TDD, agile processes, methodical approaches, complex problem solving and many more during the 16-week development course with Makers Academy boot-camp. 
+With eagerness to familiarize myself with augmented reality for the StarGazer project, using Xcode for the first time I learned how to place an image on a devices camera, learning about plane detection and AR world tracking configuration through practice and having some fun with the software, as shown in this [Pizza](https://drive.google.com/open?id=1qkJt-Re-UumYu8JtD1rHeK2k7178RGde) example.
+
+Each morning personal learning objectives for the day are recorded, working towards higher-level learning goals. At the end of each day, a daily review to reflect on the objectives I set out to achieve is completed. This approach adds structure and motivation in a fast-paced environment and enables me to manage my own well being.
 
 Achieved the highest ranking performance statistic for passing quality control checking, adhering to FSA rules, over a 6 month period which reflects my ambitious attitude and a keen eye for detail, transferring these skills to software development.
 
