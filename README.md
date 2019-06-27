@@ -66,7 +66,7 @@ Having an innovative mindset and inventive thinking results in improved performa
 
 The world of software development is circled by a supportive community where my ability to collaborate can thrive. [Welcome to Makers](https://medium.com/@domw30/welcome-to-makers-academy-55318cc1457d), an article produced to support peers and communicate helpful hints and tips to new students of Makers Academy on how to manage the pre-course.
 
-Working on group projects such as [MakersBnb](https://github.com/domw30/MakersBnB), [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) and [StarGazer](https://github.com/jo-quin/stargazer) illustrate team working capabilities following an agile product development process and developer workflows. Daily standups and retros identified areas that needed improving for example during the [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) project, the team was not aligned with the priority of tasks, to solve this solution I recommended we start using a card wall and pair programming to keep on track.
+Working on group projects such as [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) and [StarGazer](https://github.com/jo-quin/stargazer) illustrate team working capabilities following an agile product development process and developer workflows. Daily standups and retros identified areas that needed improving for example during the [Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) project, the team was not aligned with the priority of tasks, to solve this solution I recommended we start using a card wall and pair programming to keep on track.
 
 #### Self-Starter
 An everlasting hunger for new challenges and projects to continue learning new material and concepts effectively and efficiently.
