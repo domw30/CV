@@ -2,8 +2,8 @@
 <h4 align="center">Software Engineer</h4>
 <br>
 <p align="center">
-<a href="https://www.instagram.com/domedwhite/">
-<img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="instagram" hspace="50" height="42" width="42"></a>
+<a href="https://www.codewars.com/users/domw30">
+<img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" hspace="50" height="42" width="42"></a>
 <a href="https://medium.com/@domw30">
 <img src="https://www.svgrepo.com/show/5274/medium-size.svg" alt="medium" hspace="50" height="42" width="42"></a>
 <a href=https://www.linkedin.com/in/dominic-white-6aba6b173/">
